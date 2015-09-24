@@ -1,5 +1,5 @@
 class DoNothing
-  self.do_now
+  def self.do_now
     true
   end
 end
